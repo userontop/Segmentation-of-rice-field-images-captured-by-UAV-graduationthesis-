@@ -12,7 +12,6 @@
  3. Data
     - 111 image(5280 × 3956) convert image(660 × 494)
  4. Anylabeling
-    # go to
-        https://anylabeling.nrl.ai/docs
+    #https://anylabeling.nrl.ai/docs
     - We use anylabeling to assigment label.
     
